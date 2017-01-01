@@ -1,0 +1,44 @@
+GetMovieInfo what is {MovieTitle}
+GetMovieInfo how is {MovieTitle}
+GetMovieInfo what do you think of {MovieTitle}
+GetMovieInfo {MovieTitle}
+GetMovieInfo for {MovieTitle}
+GetMovieInfo four {MovieTitle}
+GetMovieInfo is {MovieTitle} good
+GetMovieInfo is {MovieTitle} bad
+GetMovieInfo if {MovieTitle} is good
+GetMovieInfo if {MovieTitle} is bad
+GetMovieInfo what is the rating of {MovieTitle}
+GetMovieInfo {MovieTitle} rating
+GetMovieInfo do you like {MovieTitle}
+GetMovieInfo did you like {MovieTitle}
+GetMovieInfo what's {MovieTitle}
+GetMovieInfo when did {MovieTitle} come out
+GetMovieInfo how's {MovieTitle}
+GetMovieInfo what's the rating of {MovieTitle}
+GetMovieInfo opinion of {MovieTitle}
+GetMovieInfo opinion on {MovieTitle}
+GetMovieInfo what's your opinion of {MovieTitle}
+GetMovieInfo whats your opinion on {MovieTitle}
+GetMovieInfo what is opinion of {MovieTitle}
+GetMovieInfo what is opinion on {MovieTitle}
+GetMovieInfo what is the plot of {MovieTitle}
+GetMovieInfo what's the plot of {MovieTitle}
+GetMovieInfo who directed {MovieTitle}
+GetMovieInfo cast of {MovieTitle}
+GetMovieInfo who is the cast of {MovieTitle}
+GetMovieInfo who are the cast of {MovieTitle}
+GetMovieInfo what is the cast of {MovieTitle}
+GetMovieInfo what's the cast of {MovieTitle}
+GetMovieInfo i want to see {MovieTitle}
+GetMovieInfo look for {MovieTitle}
+GetMovieInfo search for {MovieTitle}
+GetMovieInfo when was {MovieTitle} released
+GetMovieInfo leading cast of {MovieTitle}
+GetMovieInfo what was the plot of {MovieTitle}
+GetMovieInfo what is the plot of {MovieTitle}
+GetMovieInfo how is the plot of {MovieTitle}
+GetMovieInfo what's the plot of {MovieTitle}
+GetMovieInfo how's the plot of {MovieTitle}
+GetMovieInfo about {MovieTitle}
+GetMovieInfo find {MovieTitle}

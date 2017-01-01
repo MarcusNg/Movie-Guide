@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+   	"intent": "GetMovieInfo",
+    "slots": [
+      {
+        "name": "MovieTitle",
+        "type": "AMAZON.Movie"
+      }
+    ]
+    }
+  ]
+}
