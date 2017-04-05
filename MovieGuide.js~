@@ -1,5 +1,0 @@
-exports.handler = (event,context) => {
-
-
-    
-}

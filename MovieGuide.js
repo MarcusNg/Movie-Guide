@@ -29,6 +29,7 @@ try {
         switch(event.request.intent.name) {
           case "GetMovieInfo":
             console.log(event.request.intent.slots.MovieTitle.value)
+	    // Replace movieTitle whitespace with +
 	    var movieTitle = event.request.intent.slots.MovieTitle.value
 	    movieTitle = movieTitle.replace(/\s/g, "+")
             var endpoint = "https://www.omdbapi.com/?t=" + movieTitle + "&y=&plot=short&r=json" // ENDPOINT GOES HERE
